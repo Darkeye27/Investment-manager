@@ -26,8 +26,8 @@ A simple web application that allows users to register, log in, and manage their
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Darkeye27/Investment-manager
+cd Investment-manager
 ```
 
 ### 2. Install dependencies
