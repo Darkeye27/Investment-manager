@@ -48,7 +48,7 @@ Open .env and update the database config for SQLite:
 
 ```env
 DB_CONNECTION=sqlite
-DB_DATABASE=/absolute/path/to/database/database.sqlite
+DB_DATABASE=database/database.sqlite
 ```
 
 Create the database.sqlite file:
